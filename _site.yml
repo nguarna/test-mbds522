@@ -1,0 +1,13 @@
+#STRCTURE OF WEBSITE
+name: "my-website"
+output_dir: "."
+navbar:
+  title: "BDS 522 Project"
+  left:
+    - text: "Introduction"
+      href: index.html
+    - text: "Data"
+      href: about.html
+    - text: "Results"
+      href: results.html
+      

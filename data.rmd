@@ -1,0 +1,27 @@
+---
+title: "My Website"
+---
+
+Hello. Hello.
+
+
+```{r, ech = F} 
+#put r code here (apostrophe next to esc key)
+
+#{r, ech = F} is website without code, just output
+
+#setup
+  # set WD
+  # install rmarkdown
+  # library(rmarkdown)
+  # render_site()
+
+vector <- c(1,1,1,3,4,5)
+vector2 <- c(2,3,4,5,6,8)
+mean(vector)
+plot(vector,vector2)
+
+
+
+
+```
